@@ -1,0 +1,33 @@
+id s = caa00011
+candidate[]
+  serial n = 1
+  firstName s = Donald
+  lastName s = Trump
+  party s =  R
+  homeState n = 1
+  color s = Red
+  picLink s = Trump.png
+candidate[]
+  serial n = 2
+  firstName s = Kamala
+  lastName s = Harris
+  party s =  D
+  homeState n = 1
+  color s = Blue
+  picLink s = Harris.png
+candidate[]
+  serial n = 3
+  firstName s = Jill
+  lastName s = Stein
+  party s =  G
+  homeState n = 1
+  color s = Green
+  picLink s = https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Jill_Stein_by_Gage_Skidmore_3.jpg/1024px-Jill_Stein_by_Gage_Skidmore_3.jpg
+candidate[]
+  serial n = 4
+  firstName s = Chase
+  lastName s = Oliver
+  party s =  L
+  homeState n = 1
+  color s = Yellow
+  picLink s = https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Chase_Oliver_by_Gage_Skidmore_2.jpg/1024px-Chase_Oliver_by_Gage_Skidmore_2.jpg

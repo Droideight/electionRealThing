@@ -1,0 +1,76 @@
+id s = sta00011
+state[]
+  name s = Washington DC
+  abbrv s = DC
+  pollClosingH n = 18
+  pollClosingM n = 0
+  tallySeq n = 2
+  ev n = 3
+  cd []
+    serial n = 1
+    ev n = 0
+    county [] n = 1
+state[]
+  name s = New Hampshire
+  abbrv s = NH
+  pollClosingH n = 17
+  pollClosingM n = 0
+  tallySeq n = 3
+  ev n = 4
+  cd []
+    serial n = 1
+    ev n = 0
+    county [] n = 2
+  cd []
+    serial n = 2
+    ev n = 0
+    county [] n = 3
+state[]
+  name s = Wyoming
+  abbrv s = WY
+  pollClosingH n = 19
+  pollClosingM n = 0
+  tallySeq n = 3
+  ev n = 3
+  cd []
+    serial n = 1
+    ev n = 0
+    county [] n = 4
+state[]
+  name s = Nevada
+  abbrv s = NV
+  pollClosingH n = 20
+  pollClosingM n = 0
+  tallySeq n = 2
+  ev n = 6
+  cd []
+    serial n = 1
+    ev n = 0
+    county [] n = 5
+  cd []
+    serial n = 2
+    ev n = 0
+    county [] n = 6
+  cd []
+    serial n = 3
+    ev n = 0
+    county [] n = 7
+  cd []
+    serial n = 4
+    ev n = 0
+    county [] n = 8
+state[]
+  name s = Maine
+  abbrv s = ME
+  pollClosingH n = 18
+  pollClosingM n = 0
+  tallySeq n = 2
+  ev n = 2
+  cd []
+    serial n = 1
+    ev n = 1
+    county [] n = 9
+  cd []
+    serial n = 2
+    ev n = 1
+    county [] n = 10

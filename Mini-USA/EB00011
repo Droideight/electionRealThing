@@ -1,0 +1,8 @@
+title = US Pres. 2024
+electoralSystem n = 1
+startTallyHour n = 16
+startTallyMinute n = 0
+updateFreq n = 10
+feature [] n = 0
+bundleID s = EB00011
+bundle [] s = caa00011, sta00011, coa00011, rpa00011, sya00011

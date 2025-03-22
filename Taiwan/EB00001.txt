@@ -1,0 +1,8 @@
+title = ROC Pres. 2024
+electoralSystem n = 2
+startTallyHour n = 16
+startTallyMinute n = 0
+updateFreq n = 10
+feature [] n = 0
+bundleID s = EB00001
+bundle [] s = caa00001, sta00001, coa00001, rpa00001, sya00001

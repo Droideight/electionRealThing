@@ -1,0 +1,25 @@
+id s = caa00001
+candidate[]
+  serial n = 1
+  firstName s = Ko
+  lastName s = Wen-Je
+  party s =  T
+  homeState n = 1
+  color s = Cyan
+  picLink s = Ko.png
+candidate[]
+  serial n = 2
+  firstName s = Ho
+  lastName s = Yo-Ih
+  party s =  K
+  homeState n = 1
+  color s = Blue
+  picLink s = Ho.png
+candidate[]
+  serial n = 3
+  firstName s = Lai
+  lastName s = Ching-De
+  party s =  D
+  homeState n = 1
+  color s = Green
+  picLink s = Lai.png

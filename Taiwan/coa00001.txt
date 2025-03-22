@@ -1,0 +1,2577 @@
+id s = coa00001
+county[]
+  name s = Zhongzheng
+  state n = 1
+  cd n = 1
+  tallyspeed n = 0.8
+  tallystart n = 1.4
+  totalpopulation n = 159598
+county[]
+  name s = Datong
+  state n = 1
+  cd n = 2
+  tallyspeed n = 0.7
+  tallystart n = 1.7
+  totalpopulation n = 126201
+county[]
+  name s = Zhongshan
+  state n = 1
+  cd n = 2
+  tallyspeed n = 0.7
+  tallystart n = 1.7
+  totalpopulation n = 227894
+county[]
+  name s = Songshan
+  state n = 1
+  cd n = 1
+  tallyspeed n = 0.8
+  tallystart n = 1.4
+  totalpopulation n = 210719
+county[]
+  name s = Daan
+  state n = 1
+  cd n = 3
+  tallyspeed n = 0.5
+  tallystart n = 3.5
+  totalpopulation n = 309835
+county[]
+  name s = Wanhua
+  state n = 1
+  cd n = 2
+  tallyspeed n = 0.7
+  tallystart n = 1.7
+  totalpopulation n = 189273
+county[]
+  name s = Xinyi
+  state n = 1
+  cd n = 3
+  tallyspeed n = 0.5
+  tallystart n = 3.5
+  totalpopulation n = 225561
+county[]
+  name s = Shilin
+  state n = 1
+  cd n = 4
+  tallyspeed n = 1.1
+  tallystart n = 2.2
+  totalpopulation n = 275992
+county[]
+  name s = Beitou
+  state n = 1
+  cd n = 4
+  tallyspeed n = 1.1
+  tallystart n = 2.2
+  totalpopulation n = 253794
+county[]
+  name s = Neihu
+  state n = 1
+  cd n = 5
+  tallyspeed n = 1.2
+  tallystart n = 1.2
+  totalpopulation n = 310596
+county[]
+  name s = Nangang
+  state n = 1
+  cd n = 5
+  tallyspeed n = 1.2
+  tallystart n = 1.2
+  totalpopulation n = 131881
+county[]
+  name s = Wenshan
+  state n = 1
+  cd n = 5
+  tallyspeed n = 1.2
+  tallystart n = 1.2
+  totalpopulation n = 268870
+county[]
+  name s = Banqiao
+  state n = 2
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 3.5
+  totalpopulation n = 554011
+county[]
+  name s = Sanchong
+  state n = 2
+  cd n = 2
+  tallyspeed n = 0.7
+  tallystart n = 1.7
+  totalpopulation n = 383382
+county[]
+  name s = Zhonghe
+  state n = 2
+  cd n = 3
+  tallyspeed n = 0.8
+  tallystart n = 1.4
+  totalpopulation n = 406221
+county[]
+  name s = Yonghe
+  state n = 2
+  cd n = 3
+  tallyspeed n = 0.8
+  tallystart n = 1.4
+  totalpopulation n = 213831
+county[]
+  name s = Xinzhuang
+  state n = 2
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 3.5
+  totalpopulation n = 423786
+county[]
+  name s = Xindian
+  state n = 2
+  cd n = 4
+  tallyspeed n = 1.2
+  tallystart n = 1.2
+  totalpopulation n = 306524
+county[]
+  name s = Tucheng
+  state n = 2
+  cd n = 2
+  tallyspeed n = 0.7
+  tallystart n = 1.7
+  totalpopulation n = 241144
+county[]
+  name s = Luzhou
+  state n = 2
+  cd n = 2
+  tallyspeed n = 0.7
+  tallystart n = 1.7
+  totalpopulation n = 198608
+county[]
+  name s = Shulin
+  state n = 2
+  cd n = 5
+  tallyspeed n = 0.6
+  tallystart n = 1.95
+  totalpopulation n = 179249
+county[]
+  name s = Yingge
+  state n = 2
+  cd n = 6
+  tallyspeed n = 0.55
+  tallystart n = 2.1
+  totalpopulation n = 89271
+county[]
+  name s = Sanxia
+  state n = 2
+  cd n = 6
+  tallyspeed n = 0.55
+  tallystart n = 2.1
+  totalpopulation n = 115343
+county[]
+  name s = Tamsui
+  state n = 2
+  cd n = 7
+  tallyspeed n = 0.9
+  tallystart n = 0.9
+  totalpopulation n = 199604
+county[]
+  name s = Xizhi
+  state n = 2
+  cd n = 8
+  tallyspeed n = 0.75
+  tallystart n = 0.75
+  totalpopulation n = 210633
+county[]
+  name s = Ruifang
+  state n = 2
+  cd n = 8
+  tallyspeed n = 0.75
+  tallystart n = 0.75
+  totalpopulation n = 36472
+county[]
+  name s = Wugu
+  state n = 2
+  cd n = 6
+  tallyspeed n = 0.55
+  tallystart n = 2.1
+  totalpopulation n = 93860
+county[]
+  name s = Taishan
+  state n = 2
+  cd n = 6
+  tallyspeed n = 0.55
+  tallystart n = 2.1
+  totalpopulation n = 77575
+county[]
+  name s = Linkou
+  state n = 2
+  cd n = 6
+  tallyspeed n = 0.55
+  tallystart n = 2.1
+  totalpopulation n = 135678
+county[]
+  name s = Shenkeng
+  state n = 2
+  cd n = 8
+  tallyspeed n = 0.7
+  tallystart n = 0.7
+  totalpopulation n = 23629
+county[]
+  name s = Shiding
+  state n = 2
+  cd n = 8
+  tallyspeed n = 0.7
+  tallystart n = 0.7
+  totalpopulation n = 7094
+county[]
+  name s = Pinglin
+  state n = 2
+  cd n = 8
+  tallyspeed n = 0.7
+  tallystart n = 0.7
+  totalpopulation n = 6337
+county[]
+  name s = Sanzhi
+  state n = 2
+  cd n = 8
+  tallyspeed n = 0.7
+  tallystart n = 0.7
+  totalpopulation n = 22063
+county[]
+  name s = Shimen
+  state n = 2
+  cd n = 7
+  tallyspeed n = 0.9
+  tallystart n = 0.9
+  totalpopulation n = 10453
+county[]
+  name s = Bali
+  state n = 2
+  cd n = 8
+  tallyspeed n = 0.7
+  tallystart n = 0.7
+  totalpopulation n = 42565
+county[]
+  name s = Pingxi
+  state n = 2
+  cd n = 9
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 4059
+county[]
+  name s = Shuangxi
+  state n = 2
+  cd n = 9
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 7713
+county[]
+  name s = Gongliao
+  state n = 2
+  cd n = 9
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 10761
+county[]
+  name s = Jinshan
+  state n = 2
+  cd n = 9
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 20130
+county[]
+  name s = Wanli
+  state n = 2
+  cd n = 9
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 20717
+county[]
+  name s = Wulai
+  state n = 2
+  cd n = 9
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 6273
+county[]
+  name s = Taoyuan
+  state n = 3
+  cd n = 1
+  tallyspeed n = 2.1
+  tallystart n = 2.1
+  totalpopulation n = 459656
+county[]
+  name s = Zhongli
+  state n = 3
+  cd n = 2
+  tallyspeed n = 1.7
+  tallystart n = 1.7
+  totalpopulation n = 422895
+county[]
+  name s = Pingzhen
+  state n = 3
+  cd n = 3
+  tallyspeed n = 1.0
+  tallystart n = 1.0
+  totalpopulation n = 235123
+county[]
+  name s = Bade
+  state n = 3
+  cd n = 3
+  tallyspeed n = 1.0
+  tallystart n = 1.0
+  totalpopulation n = 205456
+county[]
+  name s = Yangmei
+  state n = 3
+  cd n = 4
+  tallyspeed n = 0.8
+  tallystart n = 0.8
+  totalpopulation n = 166791
+county[]
+  name s = Luzhu
+  state n = 3
+  cd n = 4
+  tallyspeed n = 0.8
+  tallystart n = 0.8
+  totalpopulation n = 163786
+county[]
+  name s = Guishan
+  state n = 3
+  cd n = 4
+  tallyspeed n = 0.8
+  tallystart n = 0.8
+  totalpopulation n = 158123
+county[]
+  name s = Daxi
+  state n = 3
+  cd n = 5
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 93456
+county[]
+  name s = Longtan
+  state n = 3
+  cd n = 5
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 122345
+county[]
+  name s = Dayuan
+  state n = 3
+  cd n = 5
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 101234
+county[]
+  name s = Guanyin
+  state n = 3
+  cd n = 5
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 78901
+county[]
+  name s = Xinwu
+  state n = 3
+  cd n = 5
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 60456
+county[]
+  name s = Fuxing
+  state n = 3
+  cd n = 5
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 11789
+county[]
+  name s = Magong
+  state n = 4
+  cd n = 1
+  tallyspeed n = 3.2
+  tallystart n = 1.3
+  totalpopulation n = 60798
+county[]
+  name s = Huxi
+  state n = 4
+  cd n = 2
+  tallyspeed n = 0.65
+  tallystart n = 0.5
+  totalpopulation n = 14105
+county[]
+  name s = Baisha
+  state n = 4
+  cd n = 2
+  tallyspeed n = 0.55
+  tallystart n = 0.5
+  totalpopulation n = 9345
+county[]
+  name s = Xiyu
+  state n = 4
+  cd n = 2
+  tallyspeed n = 0.55
+  tallystart n = 0.5
+  totalpopulation n = 8241
+county[]
+  name s = Wangan
+  state n = 4
+  cd n = 2
+  tallyspeed n = 0.55
+  tallystart n = 0.5
+  totalpopulation n = 5411
+county[]
+  name s = Qimei
+  state n = 4
+  cd n = 2
+  tallyspeed n = 0.52
+  tallystart n = 0.5
+  totalpopulation n = 3938
+county[]
+  name s = Jincheng
+  state n = 5
+  cd n = 1
+  tallyspeed n = 0.8
+  tallystart n = 0.9
+  totalpopulation n = 42968
+county[]
+  name s = Jinhu
+  state n = 5
+  cd n = 1
+  tallyspeed n = 0.7
+  tallystart n = 0.5
+  totalpopulation n = 31181
+county[]
+  name s = Jinsha
+  state n = 5
+  cd n = 1
+  tallyspeed n = 0.6
+  tallystart n = 0.5
+  totalpopulation n = 20692
+county[]
+  name s = Jinning
+  state n = 5
+  cd n = 1
+  tallyspeed n = 0.55
+  tallystart n = 0.5
+  totalpopulation n = 35683
+county[]
+  name s = Lieyu
+  state n = 5
+  cd n = 1
+  tallyspeed n = 0.54
+  tallystart n = 0.5
+  totalpopulation n = 12598
+county[]
+  name s = Wuqiu
+  state n = 5
+  cd n = 1
+  tallyspeed n = 0.54
+  tallystart n = 0.5
+  totalpopulation n = 652
+county[]
+  name s = Nangan
+  state n = 6
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 0.55
+  totalpopulation n = 7814
+county[]
+  name s = Beigan
+  state n = 6
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 0.55
+  totalpopulation n = 3095
+county[]
+  name s = Juguang
+  state n = 6
+  cd n = 1
+  tallyspeed n = 0.55
+  tallystart n = 0.55
+  totalpopulation n = 1502
+county[]
+  name s = Dongyin
+  state n = 6
+  cd n = 1
+  tallyspeed n = 0.55
+  tallystart n = 0.55
+  totalpopulation n = 1564
+county[]
+  name s = Xinying
+  state n = 7
+  cd n = 1
+  tallyspeed n = 1.4
+  tallystart n = 2
+  totalpopulation n = 74697
+county[]
+  name s = Yanshui
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.8
+  tallystart n = 1.6
+  totalpopulation n = 23986
+county[]
+  name s = Baihe
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.8
+  tallystart n = 1.6
+  totalpopulation n = 25484
+county[]
+  name s = Liuying
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.8
+  tallystart n = 1.6
+  totalpopulation n = 20077
+county[]
+  name s = Houbi
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.6
+  tallystart n = 1.4
+  totalpopulation n = 21361
+county[]
+  name s = Dongshan
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.6
+  tallystart n = 1.4
+  totalpopulation n = 18898
+county[]
+  name s = Madou
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.6
+  tallystart n = 1.4
+  totalpopulation n = 43026
+county[]
+  name s = Xiaying
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 1.3
+  totalpopulation n = 22135
+county[]
+  name s = Liujia
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 1.3
+  totalpopulation n = 21143
+county[]
+  name s = Guantian
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 1.3
+  totalpopulation n = 20689
+county[]
+  name s = Danei
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 0.8
+  totalpopulation n = 8623
+county[]
+  name s = Jiali
+  state n = 7
+  cd n = 1
+  tallyspeed n = 1.2
+  tallystart n = 1.8
+  totalpopulation n = 58419
+county[]
+  name s = Xuejia
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.6
+  tallystart n = 0.9
+  totalpopulation n = 24537
+county[]
+  name s = Xigang
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 0.8
+  totalpopulation n = 25041
+county[]
+  name s = Qigu
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 20832
+county[]
+  name s = Jiangjun
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 18081
+county[]
+  name s = Beimen
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 9753
+county[]
+  name s = Xinhua
+  state n = 7
+  cd n = 2
+  tallyspeed n = 1.5
+  tallystart n = 1.0
+  totalpopulation n = 42342
+county[]
+  name s = Xinshi
+  state n = 7
+  cd n = 2
+  tallyspeed n = 1.0
+  tallystart n = 1.1
+  totalpopulation n = 37908
+county[]
+  name s = Shanhua
+  state n = 7
+  cd n = 1
+  tallyspeed n = 1.1
+  tallystart n = 1.2
+  totalpopulation n = 53102
+county[]
+  name s = Anding
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 29896
+county[]
+  name s = Shanshang
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 6941
+county[]
+  name s = Yujing
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.7
+  tallystart n = 1.2
+  totalpopulation n = 12848
+county[]
+  name s = Nanxi
+  state n = 7
+  cd n = 1
+  tallyspeed n = 2
+  tallystart n = 2.9
+  totalpopulation n = 8569
+county[]
+  name s = Nanhua
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.5
+  tallystart n = 0.7
+  totalpopulation n = 7821
+county[]
+  name s = Zuozhen
+  state n = 7
+  cd n = 1
+  tallyspeed n = 0.6
+  tallystart n = 0.7
+  totalpopulation n = 4146
+county[]
+  name s = Rende
+  state n = 7
+  cd n = 4
+  tallyspeed n = 1.2
+  tallystart n = 1.5
+  totalpopulation n = 77634
+county[]
+  name s = Guiren
+  state n = 7
+  cd n = 4
+  tallyspeed n = 1.3
+  tallystart n = 1.6
+  totalpopulation n = 69578
+county[]
+  name s = Guanmiao
+  state n = 7
+  cd n = 4
+  tallyspeed n = 1.2
+  tallystart n = 1.4
+  totalpopulation n = 33059
+county[]
+  name s = Longqi
+  state n = 7
+  cd n = 4
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 3362
+county[]
+  name s = Yongkang
+  state n = 7
+  cd n = 2
+  tallyspeed n = 2.1
+  tallystart n = 2.4
+  totalpopulation n = 235607
+county[]
+  name s = East
+  state n = 7
+  cd n = 4
+  tallyspeed n = 2
+  tallystart n = 2
+  totalpopulation n = 181753
+county[]
+  name s = South
+  state n = 7
+  cd n = 3
+  tallyspeed n = 2
+  tallystart n = 2
+  totalpopulation n = 120506
+county[]
+  name s = Central West
+  state n = 7
+  cd n = 3
+  tallyspeed n = 1.7
+  tallystart n = 1.3
+  totalpopulation n = 77249
+county[]
+  name s = North
+  state n = 7
+  cd n = 2
+  tallyspeed n = 1.4
+  tallystart n = 1.4
+  totalpopulation n = 125901
+county[]
+  name s = Annan
+  state n = 7
+  cd n = 2
+  tallyspeed n = 1.2
+  tallystart n = 1.4
+  totalpopulation n = 203716
+county[]
+  name s = Anping
+  state n = 7
+  cd n = 3
+  tallyspeed n = 1.4
+  tallystart n = 2
+  totalpopulation n = 70162
+county[]
+  name s = Hualien
+  state n = 8
+  cd n = 1
+  tallyspeed n = 2.5
+  tallystart n = 1.5
+  totalpopulation n = 103024
+county[]
+  name s = Ji’an
+  state n = 8
+  cd n = 1
+  tallyspeed n = 1.2
+  tallystart n = 0.8
+  totalpopulation n = 83613
+county[]
+  name s = Shoufeng
+  state n = 8
+  cd n = 2
+  tallyspeed n = 1
+  tallystart n = 0.7
+  totalpopulation n = 17714
+county[]
+  name s = Xincheng
+  state n = 8
+  cd n = 2
+  tallyspeed n = 1
+  tallystart n = 0.7
+  totalpopulation n = 20137
+county[]
+  name s = Xiulin
+  state n = 8
+  cd n = 2
+  tallyspeed n = 1.2
+  tallystart n = 1.1
+  totalpopulation n = 15940
+county[]
+  name s = Wanrong
+  state n = 8
+  cd n = 2
+  tallyspeed n = 1.4
+  tallystart n = 0.9
+  totalpopulation n = 6282
+county[]
+  name s = Fenglin
+  state n = 8
+  cd n = 2
+  tallyspeed n = 1.6
+  tallystart n = 1
+  totalpopulation n = 10848
+county[]
+  name s = Guangfu
+  state n = 8
+  cd n = 2
+  tallyspeed n = 1.7
+  tallystart n = 1.2
+  totalpopulation n = 12493
+county[]
+  name s = Ruisui
+  state n = 8
+  cd n = 2
+  tallyspeed n = 1.4
+  tallystart n = 1.1
+  totalpopulation n = 11366
+county[]
+  name s = Fengbin
+  state n = 8
+  cd n = 2
+  tallyspeed n = 1.9
+  tallystart n = 0.8
+  totalpopulation n = 4413
+county[]
+  name s = Yuli
+  state n = 8
+  cd n = 2
+  tallyspeed n = 1.6
+  tallystart n = 0.7
+  totalpopulation n = 23521
+county[]
+  name s = Zhuoxi
+  state n = 8
+  cd n = 2
+  tallyspeed n = 0.5
+  tallystart n = 0.7
+  totalpopulation n = 6045
+county[]
+  name s = Fuli
+  state n = 8
+  cd n = 2
+  tallyspeed n = 1.2
+  tallystart n = 1.2
+  totalpopulation n = 10057
+county[]
+  name s = Taitung
+  state n = 9
+  cd n = 1
+  tallyspeed n = 2.2
+  tallystart n = 2
+  totalpopulation n = 103118
+county[]
+  name s = Chenggong
+  state n = 9
+  cd n = 2
+  tallyspeed n = 1.7
+  tallystart n = 1.5
+  totalpopulation n = 12965
+county[]
+  name s = Guanshan
+  state n = 9
+  cd n = 2
+  tallyspeed n = 1.2
+  tallystart n = 1.1
+  totalpopulation n = 7967
+county[]
+  name s = Beinan
+  state n = 9
+  cd n = 2
+  tallyspeed n = 1.2
+  tallystart n = 1.1
+  totalpopulation n = 16487
+county[]
+  name s = Luye
+  state n = 9
+  cd n = 2
+  tallyspeed n = 0.86
+  tallystart n = 0.75
+  totalpopulation n = 7094
+county[]
+  name s = Chishang
+  state n = 9
+  cd n = 2
+  tallyspeed n = 0.91
+  tallystart n = 1.02
+  totalpopulation n = 7719
+county[]
+  name s = Donghe
+  state n = 9
+  cd n = 2
+  tallyspeed n = 0.85
+  tallystart n = 0.74
+  totalpopulation n = 7824
+county[]
+  name s = Changbin
+  state n = 9
+  cd n = 2
+  tallyspeed n = 0.62
+  tallystart n = 0.57
+  totalpopulation n = 6545
+county[]
+  name s = Taimali
+  state n = 9
+  cd n = 2
+  tallyspeed n = 0.91
+  tallystart n = 0.66
+  totalpopulation n = 10585
+county[]
+  name s = Dawu
+  state n = 9
+  cd n = 2
+  tallyspeed n = 0.75
+  tallystart n = 0.81
+  totalpopulation n = 5458
+county[]
+  name s = Ludao
+  state n = 9
+  cd n = 2
+  tallyspeed n = 2.5
+  tallystart n = 0.56
+  totalpopulation n = 4407
+county[]
+  name s = Yanping
+  state n = 9
+  cd n = 2
+  tallyspeed n = 0.5
+  tallystart n = 0.6
+  totalpopulation n = 3567
+county[]
+  name s = Haiduan
+  state n = 9
+  cd n = 2
+  tallyspeed n = 0.55
+  tallystart n = 0.6
+  totalpopulation n = 4305
+county[]
+  name s = Jinfeng
+  state n = 9
+  cd n = 2
+  tallyspeed n = 0.7
+  tallystart n = 0.58
+  totalpopulation n = 3691
+county[]
+  name s = Daren
+  state n = 9
+  cd n = 2
+  tallyspeed n = 0.78
+  tallystart n = 0.59
+  totalpopulation n = 3391
+county[]
+  name s = Lanyu
+  state n = 9
+  cd n = 2
+  tallyspeed n = 1.95
+  tallystart n = 0.57
+  totalpopulation n = 5269
+county[]
+  name s = Zhongzheng
+  state n = 10
+  cd n = 1
+  tallyspeed n = 1.7
+  tallystart n = 2.05
+  totalpopulation n = 50846
+county[]
+  name s = Xinyi
+  state n = 10
+  cd n = 1
+  tallyspeed n = 1.5
+  tallystart n = 1.8
+  totalpopulation n = 53259
+county[]
+  name s = Renai
+  state n = 10
+  cd n = 1
+  tallyspeed n = 1.3
+  tallystart n = 1.2
+  totalpopulation n = 40633
+county[]
+  name s = Zhongshan
+  state n = 10
+  cd n = 1
+  tallyspeed n = 1.3
+  tallystart n = 1.2
+  totalpopulation n = 45786
+county[]
+  name s = Anle
+  state n = 10
+  cd n = 2
+  tallyspeed n = 1.02
+  tallystart n = 0.88
+  totalpopulation n = 80068
+county[]
+  name s = Nuannuan
+  state n = 10
+  cd n = 2
+  tallyspeed n = 0.84
+  tallystart n = 0.76
+  totalpopulation n = 38340
+county[]
+  name s = Qidu
+  state n = 10
+  cd n = 2
+  tallyspeed n = 0.74
+  tallystart n = 0.56
+  totalpopulation n = 52587
+county[]
+  name s = East
+  state n = 11
+  cd n = 1
+  tallyspeed n = 1.4
+  tallystart n = 3.6
+  totalpopulation n = 224146
+county[]
+  name s = North
+  state n = 11
+  cd n = 2
+  tallyspeed n = 1.32
+  tallystart n = 2.35
+  totalpopulation n = 153942
+county[]
+  name s = Xiangshan
+  state n = 11
+  cd n = 2
+  tallyspeed n = 2.5
+  tallystart n = 0.55
+  totalpopulation n = 79353
+county[]
+  name s = East
+  state n = 12
+  cd n = 1
+  tallyspeed n = 1
+  tallystart n = 0.8
+  totalpopulation n = 117482
+county[]
+  name s = West
+  state n = 12
+  cd n = 1
+  tallyspeed n = 1
+  tallystart n = 0.8
+  totalpopulation n = 145071
+county[]
+  name s = Central
+  state n = 13
+  cd n = 6
+  tallyspeed n = 1.1
+  tallystart n = 1.1
+  totalpopulation n = 17900
+county[]
+  name s = East
+  state n = 13
+  cd n = 5
+  tallyspeed n = 1.3
+  tallystart n = 1.3
+  totalpopulation n = 77678
+county[]
+  name s = South
+  state n = 13
+  cd n = 6
+  tallyspeed n = 1.5
+  tallystart n = 1.5
+  totalpopulation n = 127002
+county[]
+  name s = West
+  state n = 13
+  cd n = 6
+  tallyspeed n = 1.4
+  tallystart n = 1.2
+  totalpopulation n = 113760
+county[]
+  name s = North
+  state n = 13
+  cd n = 5
+  tallyspeed n = 1.3
+  tallystart n = 1.2
+  totalpopulation n = 143389
+county[]
+  name s = Beitun
+  state n = 13
+  cd n = 5
+  tallyspeed n = 1.7
+  tallystart n = 2
+  totalpopulation n = 308783
+county[]
+  name s = Xitun
+  state n = 13
+  cd n = 4
+  tallyspeed n = 2
+  tallystart n = 2.2
+  totalpopulation n = 236038
+county[]
+  name s = Nantun
+  state n = 13
+  cd n = 4
+  tallyspeed n = 1.4
+  tallystart n = 1.5
+  totalpopulation n = 184221
+county[]
+  name s = Taiping
+  state n = 13
+  cd n = 7
+  tallyspeed n = 1.5
+  tallystart n = 1.6
+  totalpopulation n = 199151
+county[]
+  name s = Dali
+  state n = 13
+  cd n = 6
+  tallyspeed n = 2.1
+  tallystart n = 1.9
+  totalpopulation n = 212196
+county[]
+  name s = Wufeng
+  state n = 13
+  cd n = 2
+  tallyspeed n = 1.7
+  tallystart n = 0.52
+  totalpopulation n = 63462
+county[]
+  name s = Wuri
+  state n = 13
+  cd n = 2
+  tallyspeed n = 1.9
+  tallystart n = 0.55
+  totalpopulation n = 80914
+county[]
+  name s = Fengyuan
+  state n = 13
+  cd n = 7
+  tallyspeed n = 2
+  tallystart n = 1.4
+  totalpopulation n = 163396
+county[]
+  name s = Houli
+  state n = 13
+  cd n = 3
+  tallyspeed n = 0.75
+  tallystart n = 0.82
+  totalpopulation n = 53385
+county[]
+  name s = Shigang
+  state n = 13
+  cd n = 7
+  tallyspeed n = 0.56
+  tallystart n = 0.64
+  totalpopulation n = 13894
+county[]
+  name s = Dongshi
+  state n = 13
+  cd n = 7
+  tallyspeed n = 0.98
+  tallystart n = 1.49
+  totalpopulation n = 47172
+county[]
+  name s = Heping
+  state n = 13
+  cd n = 7
+  tallyspeed n = 0.95
+  tallystart n = 0.84
+  totalpopulation n = 10699
+county[]
+  name s = Xinshe
+  state n = 13
+  cd n = 7
+  tallyspeed n = 1.35
+  tallystart n = 0.78
+  totalpopulation n = 22875
+county[]
+  name s = Tanzi
+  state n = 13
+  cd n = 3
+  tallyspeed n = 1.12
+  tallystart n = 1.45
+  totalpopulation n = 109264
+county[]
+  name s = Daya
+  state n = 13
+  cd n = 3
+  tallyspeed n = 0.89
+  tallystart n = 1.67
+  totalpopulation n = 95420
+county[]
+  name s = Shengang
+  state n = 13
+  cd n = 3
+  tallyspeed n = 1.58
+  tallystart n = 1.12
+  totalpopulation n = 64109
+county[]
+  name s = Dadu
+  state n = 13
+  cd n = 2
+  tallyspeed n = 1.74
+  tallystart n = 1.76
+  totalpopulation n = 55787
+county[]
+  name s = Shalu
+  state n = 13
+  cd n = 2
+  tallyspeed n = 1.89
+  tallystart n = 1.34
+  totalpopulation n = 99878
+county[]
+  name s = Longjing
+  state n = 13
+  cd n = 2
+  tallyspeed n = 0.82
+  tallystart n = 0.75
+  totalpopulation n = 78788
+county[]
+  name s = Wuqi
+  state n = 13
+  cd n = 1
+  tallyspeed n = 1.36
+  tallystart n = 0.92
+  totalpopulation n = 62296
+county[]
+  name s = Qingshui
+  state n = 13
+  cd n = 1
+  tallyspeed n = 1.63
+  tallystart n = 1.45
+  totalpopulation n = 90254
+county[]
+  name s = Dajia
+  state n = 13
+  cd n = 1
+  tallyspeed n = 1.27
+  tallystart n = 1.34
+  totalpopulation n = 74248
+county[]
+  name s = Waipu
+  state n = 13
+  cd n = 1
+  tallyspeed n = 1.03
+  tallystart n = 1.29
+  totalpopulation n = 30981
+county[]
+  name s = Heping
+  state n = 13
+  cd n = 1
+  tallyspeed n = 0.83
+  tallystart n = 0.69
+  totalpopulation n = 10699
+county[]
+  name s = Xinxing
+  state n = 14
+  cd n = 5
+  tallyspeed n = 1.7
+  tallystart n = 1.7
+  totalpopulation n = 49548
+county[]
+  name s = Qianjin
+  state n = 14
+  cd n = 5
+  tallyspeed n = 1.3
+  tallystart n = 1.3
+  totalpopulation n = 27053
+county[]
+  name s = Lingya
+  state n = 14
+  cd n = 5
+  tallyspeed n = 1.8
+  tallystart n = 1.2
+  totalpopulation n = 163950
+county[]
+  name s = Yancheng
+  state n = 14
+  cd n = 5
+  tallyspeed n = 0.6
+  tallystart n = 0.8
+  totalpopulation n = 22308
+county[]
+  name s = Gushan
+  state n = 14
+  cd n = 5
+  tallyspeed n = 1.2
+  tallystart n = 1.1
+  totalpopulation n = 141182
+county[]
+  name s = Qijin
+  state n = 14
+  cd n = 7
+  tallyspeed n = 0.7
+  tallystart n = 0.82
+  totalpopulation n = 27593
+county[]
+  name s = Qianzhen
+  state n = 14
+  cd n = 7
+  tallyspeed n = 1.4
+  tallystart n = 1.2
+  totalpopulation n = 178591
+county[]
+  name s = Sanmin
+  state n = 14
+  cd n = 5
+  tallyspeed n = 2.2
+  tallystart n = 1.8
+  totalpopulation n = 330764
+county[]
+  name s = Nanzi
+  state n = 14
+  cd n = 3
+  tallyspeed n = 1.2
+  tallystart n = 1.3
+  totalpopulation n = 194334
+county[]
+  name s = Xiaogang
+  state n = 14
+  cd n = 7
+  tallyspeed n = 1.3
+  tallystart n = 1.4
+  totalpopulation n = 154596
+county[]
+  name s = Zuoying
+  state n = 14
+  cd n = 3
+  tallyspeed n = 3.5
+  tallystart n = 2.3
+  totalpopulation n = 197591
+county[]
+  name s = Renwu
+  state n = 14
+  cd n = 4
+  tallyspeed n = 0.8
+  tallystart n = 1
+  totalpopulation n = 98624
+county[]
+  name s = Dashe
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.6
+  tallystart n = 0.55
+  totalpopulation n = 33721
+county[]
+  name s = Gangshan
+  state n = 14
+  cd n = 2
+  tallyspeed n = 1.2
+  tallystart n = 1.3
+  totalpopulation n = 95228
+county[]
+  name s = Luzhu
+  state n = 14
+  cd n = 2
+  tallyspeed n = 0.8
+  tallystart n = 0.92
+  totalpopulation n = 49871
+county[]
+  name s = Alian
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.56
+  tallystart n = 0.63
+  totalpopulation n = 27201
+county[]
+  name s = Tianliao
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.59
+  tallystart n = 0.53
+  totalpopulation n = 6324
+county[]
+  name s = Yanchao
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.78
+  tallystart n = 0.72
+  totalpopulation n = 28569
+county[]
+  name s = Qiaotou
+  state n = 14
+  cd n = 2
+  tallyspeed n = 0.83
+  tallystart n = 0.66
+  totalpopulation n = 42023
+county[]
+  name s = Ziguan
+  state n = 14
+  cd n = 2
+  tallyspeed n = 0.82
+  tallystart n = 0.62
+  totalpopulation n = 34838
+county[]
+  name s = Mituo
+  state n = 14
+  cd n = 2
+  tallyspeed n = 0.51
+  tallystart n = 0.59
+  totalpopulation n = 18124
+county[]
+  name s = Yongan
+  state n = 14
+  cd n = 2
+  tallyspeed n = 0.6
+  tallystart n = 0.6
+  totalpopulation n = 13856
+county[]
+  name s = Hunei
+  state n = 14
+  cd n = 2
+  tallyspeed n = 0.5
+  tallystart n = 0.5
+  totalpopulation n = 29421
+county[]
+  name s = Niaosong
+  state n = 14
+  cd n = 4
+  tallyspeed n = 0.67
+  tallystart n = 0.62
+  totalpopulation n = 44246
+county[]
+  name s = Daliao
+  state n = 14
+  cd n = 4
+  tallyspeed n = 0.89
+  tallystart n = 0.95
+  totalpopulation n = 112119
+county[]
+  name s = Linyuan
+  state n = 14
+  cd n = 4
+  tallyspeed n = 0.85
+  tallystart n = 0.82
+  totalpopulation n = 67596
+county[]
+  name s = Qishan
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.91
+  tallystart n = 1.06
+  totalpopulation n = 33193
+county[]
+  name s = Meinong
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.75
+  tallystart n = 0.75
+  totalpopulation n = 36856
+county[]
+  name s = Liugui
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.55
+  tallystart n = 0.52
+  totalpopulation n = 11567
+county[]
+  name s = Jiaxian
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.59
+  tallystart n = 0.57
+  totalpopulation n = 5440
+county[]
+  name s = Shanlin
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.52
+  tallystart n = 0.58
+  totalpopulation n = 10763
+county[]
+  name s = Neimen
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.63
+  tallystart n = 0.69
+  totalpopulation n = 12925
+county[]
+  name s = Maolin
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.58
+  tallystart n = 1.39
+  totalpopulation n = 1885
+county[]
+  name s = Taoyuan
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.57
+  tallystart n = 1.55
+  totalpopulation n = 4204
+county[]
+  name s = Namaxia
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.58
+  tallystart n = 1.23
+  totalpopulation n = 3122
+county[]
+  name s = Fengshan
+  state n = 14
+  cd n = 6
+  tallyspeed n = 2.32
+  tallystart n = 1.85
+  totalpopulation n = 355400
+county[]
+  name s = Dashu
+  state n = 14
+  cd n = 1
+  tallyspeed n = 0.96
+  tallystart n = 0.63
+  totalpopulation n = 40209
+county[]
+  name s = Cieding
+  state n = 14
+  cd n = 2
+  tallyspeed n = 1.02
+  tallystart n = 0.77
+  totalpopulation n = 29010
+county[]
+  name s = Yilan
+  state n = 15
+  cd n = 1
+  tallyspeed n = 2.45
+  tallystart n = 1.84
+  totalpopulation n = 94886
+county[]
+  name s = Luodong
+  state n = 15
+  cd n = 1
+  tallyspeed n = 1.16
+  tallystart n = 1.67
+  totalpopulation n = 69710
+county[]
+  name s = Suao
+  state n = 15
+  cd n = 1
+  tallyspeed n = 2.44
+  tallystart n = 2.39
+  totalpopulation n = 37065
+county[]
+  name s = Toucheng
+  state n = 15
+  cd n = 2
+  tallyspeed n = 1.85
+  tallystart n = 0.59
+  totalpopulation n = 28094
+county[]
+  name s = Jiaoxi
+  state n = 15
+  cd n = 2
+  tallyspeed n = 2.33
+  tallystart n = 0.99
+  totalpopulation n = 35121
+county[]
+  name s = Zhuangwei
+  state n = 15
+  cd n = 2
+  tallyspeed n = 2.17
+  tallystart n = 2.43
+  totalpopulation n = 24445
+county[]
+  name s = Yuanshan
+  state n = 15
+  cd n = 2
+  tallyspeed n = 0.72
+  tallystart n = 2.08
+  totalpopulation n = 32004
+county[]
+  name s = Dongshan
+  state n = 15
+  cd n = 2
+  tallyspeed n = 1.72
+  tallystart n = 1.84
+  totalpopulation n = 53194
+county[]
+  name s = Wujie
+  state n = 15
+  cd n = 2
+  tallyspeed n = 0.83
+  tallystart n = 2.05
+  totalpopulation n = 41154
+county[]
+  name s = Sanxing
+  state n = 15
+  cd n = 2
+  tallyspeed n = 1.48
+  tallystart n = 1.93
+  totalpopulation n = 21113
+county[]
+  name s = Datong
+  state n = 15
+  cd n = 2
+  tallyspeed n = 2.17
+  tallystart n = 1.75
+  totalpopulation n = 5985
+county[]
+  name s = Nanao
+  state n = 15
+  cd n = 2
+  tallyspeed n = 0.98
+  tallystart n = 2.0
+  totalpopulation n = 6071
+county[]
+  name s = Zhubei
+  state n = 16
+  cd n = 1
+  tallyspeed n = 1.41
+  tallystart n = 1.42
+  totalpopulation n = 218941
+county[]
+  name s = Zhudong
+  state n = 16
+  cd n = 1
+  tallyspeed n = 0.95
+  tallystart n = 1.0
+  totalpopulation n = 35579
+county[]
+  name s = Xinpu
+  state n = 16
+  cd n = 1
+  tallyspeed n = 2.09
+  tallystart n = 2.06
+  totalpopulation n = 33327
+county[]
+  name s = Guanxi
+  state n = 16
+  cd n = 2
+  tallyspeed n = 2.35
+  tallystart n = 2.4
+  totalpopulation n = 26473
+county[]
+  name s = Hukou
+  state n = 16
+  cd n = 2
+  tallyspeed n = 1.21
+  tallystart n = 1.9
+  totalpopulation n = 83454
+county[]
+  name s = Xinfeng
+  state n = 16
+  cd n = 2
+  tallyspeed n = 0.75
+  tallystart n = 0.77
+  totalpopulation n = 59155
+county[]
+  name s = Qionglin
+  state n = 16
+  cd n = 2
+  tallyspeed n = 0.54
+  tallystart n = 0.81
+  totalpopulation n = 20342
+county[]
+  name s = Baoshan
+  state n = 16
+  cd n = 2
+  tallyspeed n = 1.45
+  tallystart n = 1.68
+  totalpopulation n = 14512
+county[]
+  name s = Hengshan
+  state n = 16
+  cd n = 2
+  tallyspeed n = 0.73
+  tallystart n = 1.9
+  totalpopulation n = 12029
+county[]
+  name s = Jianshi
+  state n = 16
+  cd n = 2
+  tallyspeed n = 1.36
+  tallystart n = 1.64
+  totalpopulation n = 9480
+county[]
+  name s = Wufeng
+  state n = 16
+  cd n = 2
+  tallyspeed n = 1.13
+  tallystart n = 0.71
+  totalpopulation n = 4418
+county[]
+  name s = Beipu
+  state n = 16
+  cd n = 2
+  tallyspeed n = 1.27
+  tallystart n = 1.07
+  totalpopulation n = 8379
+county[]
+  name s = Emei
+  state n = 16
+  cd n = 2
+  tallyspeed n = 2.25
+  tallystart n = 2.45
+  totalpopulation n = 5115
+county[]
+  name s = Miaoli
+  state n = 17
+  cd n = 1
+  tallyspeed n = 1.3
+  tallystart n = 2.07
+  totalpopulation n = 86060
+county[]
+  name s = Yuanli
+  state n = 17
+  cd n = 1
+  tallyspeed n = 1.41
+  tallystart n = 2.35
+  totalpopulation n = 43453
+county[]
+  name s = Tongxiao
+  state n = 17
+  cd n = 1
+  tallyspeed n = 2.28
+  tallystart n = 1.79
+  totalpopulation n = 30879
+county[]
+  name s = Zhunan
+  state n = 17
+  cd n = 1
+  tallyspeed n = 0.99
+  tallystart n = 0.78
+  totalpopulation n = 90616
+county[]
+  name s = Toufen
+  state n = 17
+  cd n = 2
+  tallyspeed n = 2.41
+  tallystart n = 1.71
+  totalpopulation n = 107452
+county[]
+  name s = Houlong
+  state n = 17
+  cd n = 2
+  tallyspeed n = 1.14
+  tallystart n = 1.27
+  totalpopulation n = 33686
+county[]
+  name s = Zhuolan
+  state n = 17
+  cd n = 2
+  tallyspeed n = 0.59
+  tallystart n = 1.71
+  totalpopulation n = 14953
+county[]
+  name s = Dahu
+  state n = 17
+  cd n = 2
+  tallyspeed n = 1.89
+  tallystart n = 2.18
+  totalpopulation n = 12680
+county[]
+  name s = Gongguan
+  state n = 17
+  cd n = 3
+  tallyspeed n = 1.67
+  tallystart n = 1.13
+  totalpopulation n = 30918
+county[]
+  name s = Tongluo
+  state n = 17
+  cd n = 3
+  tallyspeed n = 1.33
+  tallystart n = 1.69
+  totalpopulation n = 16287
+county[]
+  name s = Nanzhuang
+  state n = 17
+  cd n = 3
+  tallyspeed n = 2.05
+  tallystart n = 1.92
+  totalpopulation n = 8707
+county[]
+  name s = Touwu
+  state n = 17
+  cd n = 3
+  tallyspeed n = 1.23
+  tallystart n = 1.81
+  totalpopulation n = 9642
+county[]
+  name s = Sanyi
+  state n = 17
+  cd n = 3
+  tallyspeed n = 1.95
+  tallystart n = 1.82
+  totalpopulation n = 14743
+county[]
+  name s = Xihu
+  state n = 17
+  cd n = 3
+  tallyspeed n = 2.08
+  tallystart n = 1.0
+  totalpopulation n = 6054
+county[]
+  name s = Zaoqiao
+  state n = 17
+  cd n = 3
+  tallyspeed n = 1.88
+  tallystart n = 1.56
+  totalpopulation n = 11578
+county[]
+  name s = Sanwan
+  state n = 17
+  cd n = 3
+  tallyspeed n = 1.02
+  tallystart n = 1.85
+  totalpopulation n = 14743
+county[]
+  name s = Shitan
+  state n = 17
+  cd n = 3
+  tallyspeed n = 2.26
+  tallystart n = 0.61
+  totalpopulation n = 4014
+county[]
+  name s = Tai'an
+  state n = 17
+  cd n = 3
+  tallyspeed n = 1.24
+  tallystart n = 1.66
+  totalpopulation n = 5524
+county[]
+  name s = Changhua
+  state n = 18
+  cd n = 1
+  tallyspeed n = 2.1
+  tallystart n = 1.28
+  totalpopulation n = 224236
+county[]
+  name s = Lugang
+  state n = 18
+  cd n = 1
+  tallyspeed n = 0.85
+  tallystart n = 1.05
+  totalpopulation n = 83853
+county[]
+  name s = Hemei
+  state n = 18
+  cd n = 2
+  tallyspeed n = 1.57
+  tallystart n = 0.99
+  totalpopulation n = 87551
+county[]
+  name s = Xianxi
+  state n = 18
+  cd n = 2
+  tallyspeed n = 0.96
+  tallystart n = 1.17
+  totalpopulation n = 16170
+county[]
+  name s = Shengang
+  state n = 18
+  cd n = 2
+  tallyspeed n = 1.87
+  tallystart n = 1.35
+  totalpopulation n = 38493
+county[]
+  name s = Fuxing
+  state n = 18
+  cd n = 2
+  tallyspeed n = 1.47
+  tallystart n = 2.43
+  totalpopulation n = 44797
+county[]
+  name s = Xiushui
+  state n = 18
+  cd n = 2
+  tallyspeed n = 0.73
+  tallystart n = 2.4
+  totalpopulation n = 37881
+county[]
+  name s = Huatan
+  state n = 18
+  cd n = 2
+  tallyspeed n = 0.89
+  tallystart n = 2.19
+  totalpopulation n = 43439
+county[]
+  name s = Fenyuan
+  state n = 18
+  cd n = 2
+  tallyspeed n = 0.97
+  tallystart n = 1.08
+  totalpopulation n = 21898
+county[]
+  name s = Yuanlin
+  state n = 18
+  cd n = 2
+  tallyspeed n = 2.16
+  tallystart n = 2.18
+  totalpopulation n = 122736
+county[]
+  name s = Xihu
+  state n = 18
+  cd n = 2
+  tallyspeed n = 0.69
+  tallystart n = 1.51
+  totalpopulation n = 53483
+county[]
+  name s = Tianzhong
+  state n = 18
+  cd n = 3
+  tallyspeed n = 0.73
+  tallystart n = 2.36
+  totalpopulation n = 38921
+county[]
+  name s = Dacun
+  state n = 18
+  cd n = 3
+  tallyspeed n = 1.53
+  tallystart n = 0.5
+  totalpopulation n = 39611
+county[]
+  name s = Puyan
+  state n = 18
+  cd n = 3
+  tallyspeed n = 0.68
+  tallystart n = 2.29
+  totalpopulation n = 30636
+county[]
+  name s = Puxin
+  state n = 18
+  cd n = 3
+  tallyspeed n = 0.96
+  tallystart n = 1.32
+  totalpopulation n = 33395
+county[]
+  name s = Yongjing
+  state n = 18
+  cd n = 3
+  tallyspeed n = 1.33
+  tallystart n = 0.94
+  totalpopulation n = 34786
+county[]
+  name s = Shetou
+  state n = 18
+  cd n = 3
+  tallyspeed n = 1.67
+  tallystart n = 1.64
+  totalpopulation n = 41000
+county[]
+  name s = Ershui
+  state n = 18
+  cd n = 3
+  tallyspeed n = 1.58
+  tallystart n = 1.84
+  totalpopulation n = 13603
+county[]
+  name s = Beidou
+  state n = 18
+  cd n = 3
+  tallyspeed n = 1.21
+  tallystart n = 0.84
+  totalpopulation n = 33260
+county[]
+  name s = Tianwei
+  state n = 18
+  cd n = 4
+  tallyspeed n = 1.47
+  tallystart n = 2.47
+  totalpopulation n = 7811
+county[]
+  name s = Pitou
+  state n = 18
+  cd n = 4
+  tallyspeed n = 1.27
+  tallystart n = 0.96
+  totalpopulation n = 28579
+county[]
+  name s = Xizhou
+  state n = 18
+  cd n = 4
+  tallyspeed n = 2.31
+  tallystart n = 1.75
+  totalpopulation n = 27851
+county[]
+  name s = Zhutang
+  state n = 18
+  cd n = 4
+  tallyspeed n = 0.68
+  tallystart n = 1.12
+  totalpopulation n = 14214
+county[]
+  name s = Erlin
+  state n = 18
+  cd n = 4
+  tallyspeed n = 1.89
+  tallystart n = 0.59
+  totalpopulation n = 74609
+county[]
+  name s = Dacheng
+  state n = 18
+  cd n = 4
+  tallyspeed n = 1.79
+  tallystart n = 0.88
+  totalpopulation n = 14669
+county[]
+  name s = Fangyuan
+  state n = 18
+  cd n = 4
+  tallyspeed n = 0.97
+  tallystart n = 1.29
+  totalpopulation n = 30755
+county[]
+  name s = Nantou
+  state n = 19
+  cd n = 1
+  tallyspeed n = 2.44
+  tallystart n = 1.64
+  totalpopulation n = 97205
+county[]
+  name s = Puli
+  state n = 19
+  cd n = 1
+  tallyspeed n = 1.7
+  tallystart n = 0.97
+  totalpopulation n = 76512
+county[]
+  name s = Caotun
+  state n = 19
+  cd n = 2
+  tallyspeed n = 1.91
+  tallystart n = 0.59
+  totalpopulation n = 96569
+county[]
+  name s = Zhushan
+  state n = 19
+  cd n = 2
+  tallyspeed n = 2.11
+  tallystart n = 1.03
+  totalpopulation n = 50845
+county[]
+  name s = Jiji
+  state n = 19
+  cd n = 2
+  tallyspeed n = 2.1
+  tallystart n = 1.38
+  totalpopulation n = 9797
+county[]
+  name s = Mingjian
+  state n = 19
+  cd n = 3
+  tallyspeed n = 0.64
+  tallystart n = 1.62
+  totalpopulation n = 35306
+county[]
+  name s = Lugu
+  state n = 19
+  cd n = 3
+  tallyspeed n = 2.1
+  tallystart n = 1.85
+  totalpopulation n = 15913
+county[]
+  name s = Zhongliao
+  state n = 19
+  cd n = 3
+  tallyspeed n = 2.27
+  tallystart n = 1.49
+  totalpopulation n = 13277
+county[]
+  name s = Yuchi
+  state n = 19
+  cd n = 3
+  tallyspeed n = 0.83
+  tallystart n = 2.03
+  totalpopulation n = 14511
+county[]
+  name s = Guoxing
+  state n = 19
+  cd n = 3
+  tallyspeed n = 2.32
+  tallystart n = 0.61
+  totalpopulation n = 16558
+county[]
+  name s = Shuili
+  state n = 19
+  cd n = 3
+  tallyspeed n = 1.56
+  tallystart n = 2.34
+  totalpopulation n = 15849
+county[]
+  name s = Xinyi
+  state n = 19
+  cd n = 3
+  tallyspeed n = 1.47
+  tallystart n = 1.06
+  totalpopulation n = 15215
+county[]
+  name s = Ren'ai
+  state n = 19
+  cd n = 3
+  tallyspeed n = 1.16
+  tallystart n = 0.9
+  totalpopulation n = 15418
+county[]
+  name s = Douliu
+  state n = 20
+  cd n = 1
+  tallyspeed n = 1.78
+  tallystart n = 2.16
+  totalpopulation n = 108961
+county[]
+  name s = Dounan
+  state n = 20
+  cd n = 1
+  tallyspeed n = 1.34
+  tallystart n = 1.41
+  totalpopulation n = 43490
+county[]
+  name s = Huwei
+  state n = 20
+  cd n = 1
+  tallyspeed n = 1.43
+  tallystart n = 1.19
+  totalpopulation n = 70781
+county[]
+  name s = Xiluo
+  state n = 20
+  cd n = 1
+  tallyspeed n = 1.11
+  tallystart n = 2.15
+  totalpopulation n = 44445
+county[]
+  name s = Tuku
+  state n = 20
+  cd n = 1
+  tallyspeed n = 0.92
+  tallystart n = 1.59
+  totalpopulation n = 27366
+county[]
+  name s = Beigang
+  state n = 20
+  cd n = 1
+  tallyspeed n = 1.94
+  tallystart n = 1.24
+  totalpopulation n = 37594
+county[]
+  name s = Gukeng
+  state n = 20
+  cd n = 1
+  tallyspeed n = 1.44
+  tallystart n = 1.64
+  totalpopulation n = 29679
+county[]
+  name s = Dapi
+  state n = 20
+  cd n = 1
+  tallyspeed n = 1.70
+  tallystart n = 1.20
+  totalpopulation n = 17814
+county[]
+  name s = Citong
+  state n = 20
+  cd n = 2
+  tallyspeed n = 2.26
+  tallystart n = 1.21
+  totalpopulation n = 27368
+county[]
+  name s = Linnei
+  state n = 20
+  cd n = 2
+  tallyspeed n = 1.47
+  tallystart n = 0.82
+  totalpopulation n = 16691
+county[]
+  name s = Erlun
+  state n = 20
+  cd n = 2
+  tallyspeed n = 1.27
+  tallystart n = 1.63
+  totalpopulation n = 24711
+county[]
+  name s = Lunbei
+  state n = 20
+  cd n = 2
+  tallyspeed n = 1.92
+  tallystart n = 0.64
+  totalpopulation n = 22658
+county[]
+  name s = Mailiao
+  state n = 20
+  cd n = 2
+  tallyspeed n = 2.09
+  tallystart n = 0.99
+  totalpopulation n = 49801
+county[]
+  name s = Dongshi
+  state n = 20
+  cd n = 2
+  tallyspeed n = 1.71
+  tallystart n = 1.75
+  totalpopulation n = 13242
+county[]
+  name s = Baozhong
+  state n = 20
+  cd n = 2
+  tallyspeed n = 1.97
+  tallystart n = 1.01
+  totalpopulation n = 11816
+county[]
+  name s = Taixi
+  state n = 20
+  cd n = 2
+  tallyspeed n = 1.23
+  tallystart n = 1.41
+  totalpopulation n = 21544
+county[]
+  name s = Yuanchang
+  state n = 20
+  cd n = 2
+  tallyspeed n = 1.38
+  tallystart n = 0.8
+  totalpopulation n = 23118
+county[]
+  name s = Sihu
+  state n = 20
+  cd n = 2
+  tallyspeed n = 1.64
+  tallystart n = 0.56
+  totalpopulation n = 20796
+county[]
+  name s = Kouhu
+  state n = 20
+  cd n = 2
+  tallyspeed n = 2.12
+  tallystart n = 0.61
+  totalpopulation n = 24693
+county[]
+  name s = Shuilin
+  state n = 20
+  cd n = 2
+  tallyspeed n = 0.61
+  tallystart n = 1.3
+  totalpopulation n = 22517
+county[]
+  name s = Taibao
+  state n = 21
+  cd n = 1
+  tallyspeed n = 1.68
+  tallystart n = 0.95
+  totalpopulation n = 39296
+county[]
+  name s = Puzi
+  state n = 21
+  cd n = 1
+  tallyspeed n = 2.43
+  tallystart n = 1.31
+  totalpopulation n = 40467
+county[]
+  name s = Budai
+  state n = 21
+  cd n = 1
+  tallyspeed n = 0.79
+  tallystart n = 1.87
+  totalpopulation n = 24245
+county[]
+  name s = Dalin
+  state n = 21
+  cd n = 1
+  tallyspeed n = 1.01
+  tallystart n = 0.89
+  totalpopulation n = 29690
+county[]
+  name s = Minxiong
+  state n = 21
+  cd n = 1
+  tallyspeed n = 0.93
+  tallystart n = 0.73
+  totalpopulation n = 69943
+county[]
+  name s = Xikou
+  state n = 21
+  cd n = 1
+  tallyspeed n = 2.42
+  tallystart n = 0.88
+  totalpopulation n = 13040
+county[]
+  name s = Xingang
+  state n = 21
+  cd n = 1
+  tallyspeed n = 1.66
+  tallystart n = 0.79
+  totalpopulation n = 29775
+county[]
+  name s = Liujiao
+  state n = 21
+  cd n = 1
+  tallyspeed n = 0.91
+  tallystart n = 0.69
+  totalpopulation n = 20566
+county[]
+  name s = Dongshi
+  state n = 21
+  cd n = 1
+  tallyspeed n = 0.68
+  tallystart n = 2.26
+  totalpopulation n = 22339
+county[]
+  name s = Yizhu
+  state n = 21
+  cd n = 2
+  tallyspeed n = 0.96
+  tallystart n = 1.52
+  totalpopulation n = 16288
+county[]
+  name s = Lucao
+  state n = 21
+  cd n = 2
+  tallyspeed n = 2.49
+  tallystart n = 1.01
+  totalpopulation n = 13943
+county[]
+  name s = Shuishang
+  state n = 21
+  cd n = 2
+  tallyspeed n = 1.45
+  tallystart n = 2.27
+  totalpopulation n = 47448
+county[]
+  name s = Zhongpu
+  state n = 21
+  cd n = 2
+  tallyspeed n = 2.2
+  tallystart n = 1.81
+  totalpopulation n = 42289
+county[]
+  name s = Zhuqi
+  state n = 21
+  cd n = 2
+  tallyspeed n = 2.33
+  tallystart n = 0.99
+  totalpopulation n = 32929
+county[]
+  name s = Meishan
+  state n = 21
+  cd n = 2
+  tallyspeed n = 0.62
+  tallystart n = 2.2
+  totalpopulation n = 17597
+county[]
+  name s = Fanlu
+  state n = 21
+  cd n = 2
+  tallyspeed n = 0.85
+  tallystart n = 2.4
+  totalpopulation n = 10637
+county[]
+  name s = Dapu
+  state n = 21
+  cd n = 2
+  tallyspeed n = 0.89
+  tallystart n = 1.92
+  totalpopulation n = 4353
+county[]
+  name s = Alishan
+  state n = 21
+  cd n = 2
+  tallyspeed n = 1.61
+  tallystart n = 1.71
+  totalpopulation n = 5246
+county[]
+  name s = Pingtung
+  state n = 22
+  cd n = 1
+  tallyspeed n = 1.79
+  tallystart n = 1.57
+  totalpopulation n = 192977
+county[]
+  name s = Chaochou
+  state n = 22
+  cd n = 1
+  tallyspeed n = 2.4
+  tallystart n = 2.8
+  totalpopulation n = 53527
+county[]
+  name s = Tungkang
+  state n = 22
+  cd n = 1
+  tallyspeed n = 0.81
+  tallystart n = 2.19
+  totalpopulation n = 45931
+county[]
+  name s = Hengchun
+  state n = 22
+  cd n = 1
+  tallyspeed n = 0.64
+  tallystart n = 2.06
+  totalpopulation n = 29478
+county[]
+  name s = Wantan
+  state n = 22
+  cd n = 1
+  tallyspeed n = 1.81
+  tallystart n = 1.33
+  totalpopulation n = 49002
+county[]
+  name s = Changchih
+  state n = 22
+  cd n = 1
+  tallyspeed n = 0.73
+  tallystart n = 2.35
+  totalpopulation n = 29210
+county[]
+  name s = Linlo
+  state n = 22
+  cd n = 2
+  tallyspeed n = 0.51
+  tallystart n = 2.38
+  totalpopulation n = 10465
+county[]
+  name s = Chiuju
+  state n = 22
+  cd n = 2
+  tallyspeed n = 2.22
+  tallystart n = 1.26
+  totalpopulation n = 21558
+county[]
+  name s = Likang
+  state n = 22
+  cd n = 2
+  tallyspeed n = 0.76
+  tallystart n = 1.45
+  totalpopulation n = 25403
+county[]
+  name s = Yenpu
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.51
+  tallystart n = 0.97
+  totalpopulation n = 23587
+county[]
+  name s = Kaoshu
+  state n = 22
+  cd n = 2
+  tallyspeed n = 0.53
+  tallystart n = 1.75
+  totalpopulation n = 22419
+county[]
+  name s = Wanluan
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.23
+  tallystart n = 1.5
+  totalpopulation n = 18995
+county[]
+  name s = Neipu
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.14
+  tallystart n = 1.22
+  totalpopulation n = 52522
+county[]
+  name s = Chutien
+  state n = 22
+  cd n = 2
+  tallyspeed n = 0.68
+  tallystart n = 2.04
+  totalpopulation n = 15640
+county[]
+  name s = Hsinpi
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.31
+  tallystart n = 2.36
+  totalpopulation n = 9200
+county[]
+  name s = Fangliao
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.79
+  tallystart n = 0.76
+  totalpopulation n = 22661
+county[]
+  name s = Hsinyuan
+  state n = 22
+  cd n = 2
+  tallyspeed n = 2.02
+  tallystart n = 0.89
+  totalpopulation n = 32318
+county[]
+  name s = Kanting
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.87
+  tallystart n = 1.79
+  totalpopulation n = 14950
+county[]
+  name s = Linpien
+  state n = 22
+  cd n = 2
+  tallyspeed n = 0.93
+  tallystart n = 2.05
+  totalpopulation n = 16175
+county[]
+  name s = Nanchou
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.83
+  tallystart n = 0.89
+  totalpopulation n = 9751
+county[]
+  name s = Chiatung
+  state n = 22
+  cd n = 2
+  tallyspeed n = 0.88
+  tallystart n = 1.71
+  totalpopulation n = 17639
+county[]
+  name s = Liuchiu
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.07
+  tallystart n = 1.08
+  totalpopulation n = 12213
+county[]
+  name s = Checheng
+  state n = 22
+  cd n = 2
+  tallyspeed n = 0.68
+  tallystart n = 1.19
+  totalpopulation n = 7907
+county[]
+  name s = Manchou
+  state n = 22
+  cd n = 2
+  tallyspeed n = 0.59
+  tallystart n = 0.94
+  totalpopulation n = 7084
+county[]
+  name s = Fangshan
+  state n = 22
+  cd n = 2
+  tallyspeed n = 2.17
+  tallystart n = 0.74
+  totalpopulation n = 4974
+county[]
+  name s = Santimen
+  state n = 22
+  cd n = 2
+  tallyspeed n = 2.09
+  tallystart n = 2.1
+  totalpopulation n = 7700
+county[]
+  name s = Wutai
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.21
+  tallystart n = 1.97
+  totalpopulation n = 3252
+county[]
+  name s = Machia
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.48
+  tallystart n = 2.25
+  totalpopulation n = 6686
+county[]
+  name s = Taiwu
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.27
+  tallystart n = 1.28
+  totalpopulation n = 5275
+county[]
+  name s = Laiyi
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.9
+  tallystart n = 0.97
+  totalpopulation n = 7359
+county[]
+  name s = Chunjih
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.47
+  tallystart n = 1.99
+  totalpopulation n = 4875
+county[]
+  name s = Shihtzu
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.32
+  tallystart n = 1.95
+  totalpopulation n = 4874
+county[]
+  name s = Mudan
+  state n = 22
+  cd n = 2
+  tallyspeed n = 1.53
+  tallystart n = 0.59
+  totalpopulation n = 4708
