@@ -2,6 +2,46 @@ id s = sya00001
 eleRule [] s = Electoral College, Popular Vote
 tallySeq [] s = All Mixed, By Order, Early First
 voteTypes [] s = Early, EDay, Mail-In
+color []
+  clusterName = Red
+  heavy = rgba(255,0,0,0.1)
+  light = rgba(255,0,0,0.05)
+  wordUnder = rgba(255,255,255,1)
+color []
+  clusterName = Blue
+  heavy = rgba(0,0,255,0.1)
+  light = rgba(0,0,255,0.05)
+  wordUnder = rgba(255,255,255,1)
+color []
+  clusterName = Cyan
+  heavy = rgba(189,252,255,0.1)
+  light = rgba(189,252,255,0.05)
+  wordUnder = rgba(255,255,255,1)
+color []
+  clusterName = Orange
+  heavy = rgba(255,197,148,0.1)
+  light = rgba(255,197,148,0.05)
+  wordUnder = rgba(255,255,255,1)
+color []
+  clusterName = Green
+  heavy = rgba(0,128,0,0.1)
+  light = rgba(0,128,0,0.05)
+  wordUnder = rgba(255,255,255,1)
+color []
+  clusterName = Yellow
+  heavy = rgba(255,255,0,0.1)
+  light = rgba(255,255,0,0.05)
+  wordUnder = rgba(255,255,255,1)
+color []
+  clusterName = White
+  heavy = rgba(255,255,255,0.1)
+  light = rgba(255,255,255,0.05)
+  wordUnder = rgba(0,0,0,1)
+color []
+  clusterName = Black
+  heavy = rgba(0,0,0,0.1)
+  light = rgba(0,0,0,0.05)
+  wordUnder = rgba(255,255,255,1)
 stratification []
   series n = 1  
   name s = Race
@@ -27,43 +67,3 @@ stratification []
   name s = PartyID
   subs [] s = Republican, Democrat, Independent
 factorList [] s = Partisan, Favorability, Experience, Funds, Incumbency, National, Tweaks
-color []
-  clusterName = Red
-  heavy = rgba(255,0,0,0.3)
-  light = rgba(255,0,0,0.1)
-  wordUnder = rgba(255,255,255,1)
-color []
-  clusterName = Blue
-  heavy = rgba(0,0,255,0.3)
-  light = rgba(0,0,255,0.1)
-  wordUnder = rgba(255,255,255,1)
-color []
-  clusterName = Cyan
-  heavy = rgba(0,255,255,0.3)
-  light = rgba(0,255,255,0.1)
-  wordUnder = rgba(255,255,255,1)
-color []
-  clusterName = Orange
-  heavy = rgba(255,197,148,0.3)
-  light = rgba(255,197,148,0.1)
-  wordUnder = rgba(255,255,255,1)
-color []
-  clusterName = Green
-  heavy = rgba(0,128,0,0.3)
-  light = rgba(0,128,0,0.1)
-  wordUnder = rgba(255,255,255,1)
-color []
-  clusterName = Yellow
-  heavy = rgba(255,255,0,0.3)
-  light = rgba(255,255,0,0.1)
-  wordUnder = rgba(255,255,255,1)
-color []
-  clusterName = White
-  heavy = rgba(255,255,255,0.3)
-  light = rgba(255,255,255,0.1)
-  wordUnder = rgba(0,0,0,1)
-color []
-  clusterName = Black
-  heavy = rgba(0,0,0,0.3)
-  light = rgba(0,0,0,0.1)
-  wordUnder = rgba(255,255,255,1)
