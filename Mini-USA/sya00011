@@ -2,31 +2,6 @@ id s = sya00011
 eleRule [] s = Electoral College, Popular Vote
 tallySeq [] s = All Mixed, By Order, Early First
 voteTypes [] s = Early, EDay, Mail-In
-stratification []
-  series n = 1  
-  name s = Race
-  subs [] s = White, Black, Hispanic, Asian, Native Am'can, Others
-stratification []
-  series n = 2
-  name s = Education
-  subs [] s = No Uni, Some Uni, Uni+
-stratification []
-  series n = 3 
-  name s = Ideology
-  subs [] s = Left, Centre-Left, Centre, Centre-Right, Right
-stratification []
-  series n = 4
-  name s = Age
-  subs [] s = 18~25, 26~35, 36~45, 46~55, 56~65, 65+
-stratification []
-  series n = 5 
-  name s = Income
-  subs [] s = Poor, Inadequate, Fair, Fine, Affluent
-stratification []
-  series n = 6 
-  name s = PartyID
-  subs [] s = Republican, Democrat, Independent
-factorList [] s = Partisan, Favorability, Experience, Funds, Incumbency, National, Tweaks
 color []
   clusterName = Red
   heavy = rgba(255,0,0,0.1)
@@ -67,3 +42,28 @@ color []
   heavy = rgba(0,0,0,0.1)
   light = rgba(0,0,0,0.05)
   wordUnder = rgba(255,255,255,1)
+stratification []
+  series n = 1  
+  name s = Race
+  subs [] s = White, Black, Hispanic, Asian, Native Am'can, Others
+stratification []
+  series n = 2
+  name s = Education
+  subs [] s = No Uni, Some Uni, Uni+
+stratification []
+  series n = 3 
+  name s = Ideology
+  subs [] s = Left, Centre-Left, Centre, Centre-Right, Right
+stratification []
+  series n = 4
+  name s = Age
+  subs [] s = 18~25, 26~35, 36~45, 46~55, 56~65, 65+
+stratification []
+  series n = 5 
+  name s = Income
+  subs [] s = Poor, Inadequate, Fair, Fine, Affluent
+stratification []
+  series n = 6 
+  name s = PartyID
+  subs [] s = Republican, Democrat, Independent
+factorList [] s = Partisan, Favorability, Experience, Funds, Incumbency, National, Tweaks
